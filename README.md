@@ -42,9 +42,5 @@ O modelo utiliza as seguintes variáveis:
 
 ---
 
-## ▶️ Como executar o projeto
 
-### 1. Instalar dependências
 
-```bash
-pip install pandas scikit-learn joblib
